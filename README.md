@@ -42,28 +42,28 @@ In total we had 33 participants, 18 using Coq, 12 using Isabelle, 5 using Lean, 
 
 Task was stated by Maximilian P. L. Haslbeck in Isabelle, and translated to Coq by Armaël Guéneau, to Lean by Kevin Kappelmann and to ACL2 by Sebastiaan Joosten.
 
-See issue #2 for that task, and take part in the discussion by commenting.
+See [issue #2](https://github.com/maxhaslbeck/ProvingForFun-July2019/issues/2) for that task, and take part in the discussion by commenting.
 Feel free to send us a pull request to add your solution to the repository.
 
 ### 2. Fun modulo 5
 
 Task was stated by Maximilian P. L. Haslbeck in Isabelle, and translated to Coq by Armaël Guéneau, to Lean by Kevin Kappelmann and to ACL2 by Sebastiaan Joosten.
 
-See issue #3 for that task, and take part in the discussion by commenting.
+See [issue #3](https://github.com/maxhaslbeck/ProvingForFun-July2019/issues/3) for that task, and take part in the discussion by commenting.
 Feel free to send us a pull request to add your solution to the repository.
 
 ### 3. XOR
 
 Task was stated by Maximilian P. L. Haslbeck in Isabelle, and translated to Coq by Armaël Guéneau.
 
-See issue #1 for that task, and take part in the discussion by commenting.
+See [issue #1](https://github.com/maxhaslbeck/ProvingForFun-July2019/issues/1) for that task, and take part in the discussion by commenting.
 Feel free to send us a pull request to add your solution to the repository.
 
 ### 4. A funky grammar
 
-Task was stated by Simon Wimmer in Isabelle, and translated to Coq by Armaël Guéneau.
+Task was stated by Simon Wimmer in Isabelle, and translated to Coq by Armaël Guéneau, and to ACL2 by Sebastiaan Joosten.
 
-See issue #4 for that task, and take part in the discussion by commenting.
+See [issue #4](https://github.com/maxhaslbeck/ProvingForFun-July2019/issues/4) for that task, and take part in the discussion by commenting.
 Feel free to send us a pull request to add your solution to the repository.
 
 ### 5. Break the System
