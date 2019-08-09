@@ -70,7 +70,7 @@ Feel free to send us a pull request to add your solution to the repository.
 
 Task was stated by Maximilian P. L. Haslbeck in Isabelle, and translated to Coq by Armaël Guéneau, to Lean by Kevin Kappelmann and to ACL2 by Sebastiaan Joosten.
 
-See issue #5 for that task, and take part in the discussion by commenting.
+See [issue #5](https://github.com/maxhaslbeck/ProvingForFun-July2019/issues/5) for that task, and take part in the discussion by commenting.
 Feel free to send us a pull request to add your solution to the repository.
 
 
