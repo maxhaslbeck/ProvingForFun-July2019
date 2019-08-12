@@ -2,7 +2,7 @@
 
 This repository contains a summary of the July 2019 Contest at ["Proving for Fun"](https://competition.isabelle.systems).
 
-Here, we summarize what happend from begin to end of the contest, announce the winners here, and collect and discuss solutions.
+Here, we summarize what happend from begin to end of the contest, announce the winners here, and collect and discuss solutions. Feel free to send us pull requests with your solutions and discuss them in the respective issues.
 
 ## Chronology:
 
@@ -21,6 +21,7 @@ Here, we summarize what happend from begin to end of the contest, announce the w
 * Day 27 - The first correct Lean solutions start to come in: *alexjbest* is the first for **Special Pythagorean Triple** and *chrishughes24* for **Fun modulo 5**
 * Day 28 - *monadius* solved all 4 tasks in Coq and also submits a correct solution in Lean, being the first to submit solutions in two ITPs. 
 * After roughly a month - *lasydler*, *jonathye* and *monadius* use a known Coq bug to **break the system**. They thus overtake *eberlm* with now five solved tasks. Using a soundness bug is considered okay in that task, only in the first four tasks it is disqualified. 
+* 2019-08-09 midnight - contest ends
 
 ## Winners and Awards:
 
